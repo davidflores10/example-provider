@@ -3,7 +3,7 @@ class Product {
     this.id = id;
     this.type = type;
     this.name = name;
-    this.yerar = year;
+    this.year = year;
     this.version = version;
   }
 }
